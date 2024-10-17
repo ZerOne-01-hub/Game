@@ -137,7 +137,7 @@ fun main() {
             println("Здоровье одного из персонажей <= 0")
     }
         println()
-    println("The END")
+//    println("The END")
     println("Итоговый рейтинг персонажей:")
     var customComporator = CustomComporator()
     val arrayHuman = arrayOf(wizard,robot,knight)
